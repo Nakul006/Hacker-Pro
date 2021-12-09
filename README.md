@@ -108,7 +108,7 @@ Video Tutorial : Coming Soon
 
 Then Open Termux and Type : ```apt update && apt upgrade && apt install git && apt install python2```
 
-After That Open Termux and Type : ```git clone https://github.com/jaykali/hackerpro.git```
+After That Open Termux and Type : ```git clone https://github.com/Nakul006/Hacker-Pro.git```
 
 Then Type : ```cd hackerpro && python2 hackerpro.py```
 
